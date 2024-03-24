@@ -1,0 +1,15 @@
+/Users/yana/Desktop/учеба/FinalControl/Task/bin/Debug/net8.0/Task
+/Users/yana/Desktop/учеба/FinalControl/Task/bin/Debug/net8.0/Task.deps.json
+/Users/yana/Desktop/учеба/FinalControl/Task/bin/Debug/net8.0/Task.runtimeconfig.json
+/Users/yana/Desktop/учеба/FinalControl/Task/bin/Debug/net8.0/Task.dll
+/Users/yana/Desktop/учеба/FinalControl/Task/bin/Debug/net8.0/Task.pdb
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.AssemblyInfoInputs.cache
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.AssemblyInfo.cs
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.sourcelink.json
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.dll
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/refint/Task.dll
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.pdb
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/Task.genruntimeconfig.cache
+/Users/yana/Desktop/учеба/FinalControl/Task/obj/Debug/net8.0/ref/Task.dll
